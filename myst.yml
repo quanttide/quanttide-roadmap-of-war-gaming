@@ -1,0 +1,22 @@
+version: 1
+project:
+  title: 量潮兵旗推演路线图
+  description: 量潮兵旗推演路线图 - 版本序列与演进顺序
+  keywords: [量潮, 兵旗推演, 路线图]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+    - file: v0.1.0.md
+    - file: v0.1.1.md
+    - file: v0.1.2.md
+    - file: v0.1.3.md
+    - file: v0.2.0.md
+    - file: v0.2.1.md
+    - file: v0.2.2.md
+    - file: v0.3.0.md
+site:
+  template: book-theme
+  options:
+    folders: true
